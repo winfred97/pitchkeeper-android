@@ -1,0 +1,22 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.iml
+build/
+**/build/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local Android signing material must never be committed.
+*.jks
+*.keystore
+keystore.properties
+.env
+
+# Built application packages belong in GitHub Releases, not source control.
+*.apk
+*.aab
+dist/
