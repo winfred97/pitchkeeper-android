@@ -92,7 +92,7 @@ git status
 
 - 标签：`v0.1.0`
 - 标题：`音准 v0.1.0`
-- APK：重命名为 `音准-v0.1.0.apk`
+- APK：重命名为 `Pitchkeeper-v0.1.0.apk`，避免 GitHub 将中文资产名替换为连字符
 - 同时上传 SHA-256 校验文件
 - Release 说明使用 `CHANGELOG.md`
 - 明确标注尚未完成实体手机人声精度验收

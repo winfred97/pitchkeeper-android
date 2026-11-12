@@ -12,7 +12,7 @@ Android 8.0+ · 单音人声测量 · 音频只在设备本地处理
 
 首个公开版本的 APK 发布在 [GitHub Releases](https://github.com/winfred97/pitchkeeper-android/releases/latest) 页面。
 
-1. 从 Releases 下载 `音准-v0.1.0.apk`。
+1. 从 Releases 下载 `Pitchkeeper-v0.1.0.apk`。
 2. 在手机上允许浏览器或文件管理器“安装未知来源应用”。
 3. 安装后打开应用，允许麦克风权限，再点击“开始试唱”。
 
